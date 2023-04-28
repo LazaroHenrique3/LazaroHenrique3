@@ -3,7 +3,7 @@
 ## 👾 Conhecimentos 
 * Conhecimentos mais sólidos em Back-end(PHP), Bootstrap básico, Javascript básico, HTML básico, CSS básico 
 ## 📚 Estudando 
-* HTML, CSS, Javascript, React 
+* React, Node, Typescript
 ## 📧 Contate-me 
 * lazarohenrique852@gmail.com 
 
