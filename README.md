@@ -1,4 +1,4 @@
-# Olá, sou Lázaro Henrique!
+# Olá, sou Lázaro Henrique! 
 
 ## 👾 Conhecimentos 
 * Frontend(HTML, CSS, Javascript, Bootstrap, React) | Backend(Node, PHP, MySQL, MongoDB(Aprendendo))
