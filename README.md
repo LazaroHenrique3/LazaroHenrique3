@@ -1,6 +1,6 @@
 # Olá, sou Lázaro Henrique! 
 
-## 📁 Veja meu portifólio! 👉 <a href="https://lazaro-portifolio.vercel.app">Portifólio</a>
+## 📁 Veja meu portifólio! 👉 <a href="https://lazaro-portifolio.vercel.app">Portfólio</a>
 ## 👾 Conhecimentos 
 * Frontend(HTML, CSS, Javascript, Bootstrap, React) | Backend(Node, PHP, MySQL, MongoDB(Aprendendo))
 ## 📚 Estudando 
